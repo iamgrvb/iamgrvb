@@ -1,6 +1,7 @@
 # thegrv
 <h1 align="center">Hi 👋, I'm Gourav Bhattacharya</h1>
-<h3 align="center">A passionate Cloud Computing Enthusiast and Java Developer from India</h3>
+<h3 align="center">A passionate Cloud Computing Enthusiast 
+   Java & Python Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamgrvb" alt="iamgrvb" /></a> </p>
 
