@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Bhky1wsTdyqllup5neLmUY6CveRRYltg/view?usp=sharing](https://drive.google.com/file/d/1Bhky1wsTdyqllup5neLmUY6CveRRYltg/view?usp=sharing)
 
-- ⚡ Fun fact **I can be limitless once trained !**
+- ⚡ Fun fact **I can be limitless once trained !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
