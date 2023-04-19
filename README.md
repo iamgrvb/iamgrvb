@@ -1,7 +1,7 @@
 # thegrv
 <h1 align="center">Hi 👋, I'm Gourav Bhattacharya</h1>
-<h2 align="center">A passionate Cloud Computing Enthusiast </h2>
- <h3 align="center">Java & Python Developer from India</h3>
+<h2 align="center">A passionate Java & SQL Developer and a Cloud Computing Enthusiast </h2>
+ <h3 align="center">Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamgrvb" alt="iamgrvb" /></a> </p>
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **gbhattacharya9@gmail.com**
 
-- 📄 Check My Resume [https://drive.google.com/file/d/1Bhky1wsTdyqllup5neLmUY6CveRRYltg/view?usp=sharing](https://drive.google.com/file/d/1_oFJ9AegQT2kL1TeLUrFYrWiEbJom2xU/view?usp=sharing)
+- 📄 Check My Resume [RESUME](https://drive.google.com/file/d/1_oFJ9AegQT2kL1TeLUrFYrWiEbJom2xU/view?usp=sharing)
 
 - ⚡ Fun fact **I can be limitless once trained !!**
 
