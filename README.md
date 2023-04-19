@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **AWS, Google Cloud, Python**
+- 🌱 I’m currently learning **SQL, Python**
 
 - 🤝 I’m looking for help with **Cloud Computing**
 
 - 📝 I regularly write articles on [https://coinfomo.blogspot.com/](https://coinfomo.blogspot.com/)
 
-- 💬 Ask me about **Java,Python,Cloud Essentials**
+- 💬 Ask me about **Java,Python,SQL,Cloud Essentials**
 
 - 📫 How to reach me **gbhattacharya9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Bhky1wsTdyqllup5neLmUY6CveRRYltg/view?usp=sharing](https://drive.google.com/file/d/1Bhky1wsTdyqllup5neLmUY6CveRRYltg/view?usp=sharing)
+- 📄 Check My Resume [https://drive.google.com/file/d/1Bhky1wsTdyqllup5neLmUY6CveRRYltg/view?usp=sharing](https://drive.google.com/file/d/1_oFJ9AegQT2kL1TeLUrFYrWiEbJom2xU/view?usp=sharing)
 
 - ⚡ Fun fact **I can be limitless once trained !!**
 
