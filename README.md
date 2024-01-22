@@ -1,5 +1,5 @@
 # thegrv
-<h1 align="center">Hi 👋, I'm Gourav Bhattacharya</h1>
+<h1 align="center">Ola 👋, I'm Gourav Bhattacharya</h1>
 <h2 align="center">A passionate Java & SQL Developer and a Cloud Computing Enthusiast </h2>
  <h3 align="center">Developer from India</h3>
 
